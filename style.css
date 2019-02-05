@@ -1,6 +1,13 @@
-.intro {
+h1 {
  font-family: Georgia;
  color: Black;
  background-color: Pink;
  text-align: center;
  }
+
+h5 {
+ font-family: Georgia;
+ color: Black;
+ text-align: center;
+}
+
