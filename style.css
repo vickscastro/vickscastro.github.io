@@ -1,13 +1,50 @@
-h1 {
- font-family: Georgia;
- color: Black;
- background-color: Pink;
- text-align: center;
- }
+body {
+backgroung-color: White;
+font-family: 'Raleway', sans-serif;
+}
 
-h5 {
- font-family: Georgia;
- color: Black;
- text-align: center;
+.navigation ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: White;
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation li a {
+  display: block;
+  color: White;
+  text-align: center;
+}
+
+#banner {
+ background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwion4WMkrXgAhVDA9QKHeq1ASoQjRx6BAgBEAU&url=https%3A%2F%2Fcosmosmagazine.com%2Fphysics%2Fgreat-women-who-changed-science&psig=AOvVaw2fMIdTEnXgPnNK621eJYF0&ust=1550024630800641");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#banner .content h1 {
+  font-size: 14px;
+  position: relative;
+  top: 50px;
+  width: 400px;
+}
+
+#banner .content h2 {
+  font-size: 8px;
+  position: relative;
+  top: 100px;
+  width: 400px;
+}
+
+#banner .content h3 {
+  font-size: 12px;
+  position: relative;
+  top: 150px;
+  width: 400px;
 }
 
