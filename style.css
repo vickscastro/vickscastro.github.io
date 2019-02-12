@@ -5,8 +5,6 @@ font-family: 'Raleway', sans-serif;
 
 .navigation ul {
   list-style-type: none;
-  overflow: hidden;
-  background-color: White;
 }
 
 .navigation li {
@@ -15,7 +13,6 @@ font-family: 'Raleway', sans-serif;
 
 .navigation li a {
   display: block;
-  color: White;
   text-align: center;
 }
 
