@@ -17,12 +17,11 @@ font-family: 'Raleway', sans-serif;
 
 .navigation li a {
   display: block;
-  color: white;
+  color: Pink;
   text-align: center;
   padding: 16px;
   text-decoration: none;
 }
-
 
 #banner {
  background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/14302/5in1-poster.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400");
@@ -36,7 +35,7 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content h1 {
   font-size: 30px;
-  top: 50px;
+  top: 20px;
   left: 200px;
   width: 400px;
   color: White;
