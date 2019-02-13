@@ -12,7 +12,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .navigation li {
-  float: left;
+  float: center;
 }
 
 .navigation li a {
@@ -37,6 +37,7 @@ font-family: 'Raleway', sans-serif;
 #banner .content h1 {
   font-size: 30px;
   top: 50px;
+  left: 200px;
   width: 400px;
   color: White;
   text-align: center;
