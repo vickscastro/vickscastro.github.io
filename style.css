@@ -23,6 +23,10 @@ font-family: 'Raleway', sans-serif;
   text-decoration: none;
 }
 
+.navigation li a:hover {
+  background-color: #111111;
+}
+
 #banner {
  background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/14302/5in1-poster.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400");
   opacity: 70%;
