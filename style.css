@@ -5,6 +5,10 @@ font-family: 'Raleway', sans-serif;
 
 .navigation ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: White;
 }
 
 .navigation li {
@@ -13,12 +17,16 @@ font-family: 'Raleway', sans-serif;
 
 .navigation li a {
   display: block;
+  color: white;
   text-align: center;
+  padding: 16px;
+  text-decoration: none;
 }
+
 
 #banner {
  background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/14302/5in1-poster.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400");
-  opacity: 50%;
+  opacity: 70%;
   background-size: cover;
   background-position: bottom center;
   top: 30px;
@@ -28,7 +36,6 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content h1 {
   font-size: 30px;
-  position: relative;
   top: 50px;
   width: 400px;
   color: White;
@@ -37,7 +44,6 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content h2 {
   font-size: 16px;
-  position: relative;
   top: 100px;
   width: 400px;
   color: White;
@@ -46,7 +52,6 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content h3 {
   font-size: 24px;
-  position: relative;
   top: 150px;
   width: 400px;
   color: White;
