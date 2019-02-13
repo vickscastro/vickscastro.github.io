@@ -9,8 +9,9 @@ font-family: 'Raleway', sans-serif;
   padding: 0;
   overflow: hidden;
   background-color: White;
-  margin: 30px auto;
+  margin: 15px auto;
   padding: 0 20px;
+  float: center;
 }
 
 .navigation li {
