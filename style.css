@@ -9,10 +9,13 @@ font-family: 'Raleway', sans-serif;
   padding: 0;
   overflow: hidden;
   background-color: White;
+  margin: 30px auto;
+  padding: 0 20px;
 }
 
 .navigation li {
   float: center;
+  display: inline-block;
 }
 
 .navigation li a {
