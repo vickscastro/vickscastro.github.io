@@ -44,11 +44,12 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content h1 {
   position: relative;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bold;
   top: 60px;
   left: 150px;
   color: White;
+  width: 500px;
   text-align: center;
   border: 3px solid White;
   border-radius: 5px;
@@ -57,7 +58,7 @@ font-family: 'Raleway', sans-serif;
   }
 
 #banner .content h2 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   top: 100px;
   width: 400px;
@@ -67,7 +68,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 #banner .content h3 {
-  font-size: 24px;
+  font-size: 30px;
   top: 150px;
   width: 400px;
   color: White;
