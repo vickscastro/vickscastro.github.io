@@ -17,6 +17,7 @@ font-family: 'Raleway', sans-serif;
 .navigation li {
   float: center;
   display: inline-block;
+  margin-left: 30px;
 }
 
 .navigation li a {
