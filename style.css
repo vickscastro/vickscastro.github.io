@@ -42,8 +42,11 @@ font-family: 'Raleway', sans-serif;
   overflow: hidden;
 }
 
-#banner .content h1 {
+#banner .content {
   background-color: rgba(255, 255, 255, 0.3);
+}
+
+#banner .content h1 {
   position: relative;
   font-size: 40px;
   font-weight: bold;
@@ -58,20 +61,15 @@ font-family: 'Raleway', sans-serif;
   }
 
 #banner .content h2 {
-  background-color: rgba(255, 255, 255, 0.3);
-  position: relative;
   font-size: 20px;
   font-weight: bold;
-  top: 100px;
-  width: 400px;
   color: White;
   text-align: center;
-  padding: 10px;
   margin: 0 auto;
+  padding-top: 120px;
 }
 
 #banner .content h3 {
-  background-color: rgba(255, 255, 255, 0.3);
   font-size: 25px;
   position: relative;
   top: 150px;
