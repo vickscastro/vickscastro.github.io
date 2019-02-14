@@ -3,6 +3,14 @@ backgroung-color: White;
 font-family: 'Raleway', sans-serif;
 }
 
+.navigation h1 {
+  background-color: white;
+  color: pink;
+  float: left;
+  overflow: hidden;
+  margin: 15px auto;
+  padding: 0 20px;
+
 .navigation ul {
   list-style-type: none;
   margin: 0;
