@@ -34,7 +34,6 @@ font-family: 'Raleway', sans-serif;
 
 #banner {
  background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/14302/5in1-poster.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400");
-  background-color: rgba(255, 255, 255, 0.3);
   background-size: cover;
   background-position: bottom center;
   top: 15px;
@@ -44,21 +43,22 @@ font-family: 'Raleway', sans-serif;
 }
 
 #banner .content h1 {
+  background-color: rgba(255, 255, 255, 0.3);
   position: relative;
   font-size: 40px;
   font-weight: bold;
   top: 60px;
-  left: 80px;
   color: White;
   width: 500px;
   text-align: center;
   border: 3px solid White;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 10px;
   margin: 0 auto;
   }
 
 #banner .content h2 {
+  background-color: rgba(255, 255, 255, 0.3);
   position: relative;
   font-size: 20px;
   font-weight: bold;
@@ -66,19 +66,18 @@ font-family: 'Raleway', sans-serif;
   width: 400px;
   color: White;
   text-align: center;
-  left: 80px;
   padding: 10px;
   margin: 0 auto;
 }
 
 #banner .content h3 {
-  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-size: 25px;
   position: relative;
   top: 150px;
-  width: 700px;
+  width: 470px;
   color: White;
   text-align: center;
-  left: 80px;
   padding: 10px;
   margin: 0 auto;
 }
