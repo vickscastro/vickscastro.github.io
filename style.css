@@ -34,7 +34,7 @@ font-family: 'Raleway', sans-serif;
 
 #banner {
  background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/14302/5in1-poster.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400");
-  opacity: 90%;
+  background-color: rgba(255, 255, 255, 0.3);
   background-size: cover;
   background-position: bottom center;
   top: 15px;
