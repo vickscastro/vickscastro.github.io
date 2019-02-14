@@ -11,13 +11,12 @@ font-family: 'Raleway', sans-serif;
   background-color: White;
   margin: 15px auto;
   padding: 0 20px;
-  float: center;
-}
+  }
 
 .navigation li {
-  float: center;
+  float: right;
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 65px;
 }
 
 .navigation li a {
