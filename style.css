@@ -51,6 +51,9 @@ font-family: 'Raleway', sans-serif;
 
 #banner .content {
   background-color: rgba(255, 255, 255, 0.3);
+  top: 15px;
+  height: 400px;
+  width: 100%;
 }
 
   <!-- 
