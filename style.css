@@ -63,7 +63,7 @@ font-family: 'Raleway', sans-serif;
 }
 
  .grid {
-  grid-template: 100px / 60% 20%;
+  grid-template: 100px / 60% 40%;
   display: grid;
   height: 150px;
   width: 100%;
@@ -73,17 +73,18 @@ font-family: 'Raleway', sans-serif;
 .titulo-mulheres {
   font-family: 'Felipa', cursive;
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
   margin: 32px auto;
   color: deeppink;
 }
 
 .descricao-mulheres {
-  width: 500px;
+  width: 450px;
   text-align: center;
   font-family: cursive;
   font-size: 18px;
-  margin: 34px auto;
+  margin-right: 60px;
+  margin-top: 34px;
 }
 
 #listagem {
