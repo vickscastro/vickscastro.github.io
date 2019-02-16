@@ -54,48 +54,39 @@ font-family: 'Raleway', sans-serif;
 }
 
 #apresentação h3 {
-    width: 500px;
-    padding: 10px;
-    border: 3px solid;
-    border-radius: 20px;
-    text-align: center;
-    margin: 20px auto;
+  width: 500px;
+  padding: 10px;
+  border: 3px solid;
+  border-radius: 20px;
+  text-align: center;
+  margin: 20px auto;
 }
 
-  /* 
-#banner .content h1 {
-  position: relative;
-  font-size: 40px;
-  font-weight: bold;
-  top: 60px;
-  color: White;
+ .grid {
+  grid-template: 100px / 60% 20%;
+  display: grid;
+  height: 150px;
+  width: 100%;
+  background-color: white;
+}
+
+.titulo-mulheres {
+  font-family: 'Felipa', cursive;
+  text-align: center;
+  font-size: 60px;
+  margin: 32px auto;
+  color: deeppink;
+}
+
+.descricao-mulheres {
   width: 500px;
   text-align: center;
-  border: 3px solid White;
-  border-radius: 10px;
-  padding: 10px;
-  margin: 0 auto;
-  }
-
-#banner .content h2 {
-  font-size: 20px;
-  font-weight: bold;
-  color: White;
-  text-align: center;
-  margin: 0 auto;
-  padding-top: 120px;
+  font-family: cursive;
+  font-size: 18px;
+  margin: 34px auto;
 }
 
-#banner .content h3 {
-  font-size: 25px;
-  position: relative;
-  top: 150px;
-  width: 470px;
-  color: White;
-  text-align: center;
-  padding: 10px;
-  margin: 0 auto;
+#listagem {
+  display: inline-flex;
 }
-    
-   */
 
