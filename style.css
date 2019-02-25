@@ -12,13 +12,15 @@ font-family: 'Raleway', sans-serif;
   font-size: 20px; 
 }
 
-.navigation ul {
-  list-style-type: none;
-  overflow: hidden;
+.navigation {
+  backgroud-color: lightpink;
+  grid-template: 100px / 50% 50%;
+  display: grid;
+  /* overflow: hidden;
   margin: 15px auto;
   padding: 0 20px;
   float: right;
-  }
+  } */
 
 .navigation li {
   display: inline-block;
