@@ -20,13 +20,14 @@ font-family: 'Raleway', sans-serif;
   margin: 15px auto;
   padding: 0 20px;
   float: right;
-  } */
-
+ */
+}
   
 .navigation ul {
   backgroud-color: lightpink;
   grid-template: 100px / 50% 50%;
   display: grid;
+}
    
 .navigation li {
   display: inline-block;
