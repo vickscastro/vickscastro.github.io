@@ -1,0 +1,20 @@
+.ada-lovelace {
+ display: grid;
+ grid-template-areas: "img title" "img text";
+}
+
+img {
+ grid-area: img;
+}
+
+h1 {
+ grid-area: title;
+ text-align: center;
+}
+
+h2 {
+ grid-area: text;
+ font-size: small;
+ font-family: cursive;
+ text-align: center;
+}
